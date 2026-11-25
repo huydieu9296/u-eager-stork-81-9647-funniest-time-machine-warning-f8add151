@@ -17,6 +17,7 @@ Why it works: the first warning sounds like standard time-travel advice, the sec
 ## Files
 
 - `entry.txt` — the entry text (115 characters, within the 120-character limit)
+- `main.ts` — entrypoint: reads `entry.txt`, writes it to `/output/entry.txt`, and prints it
 - `LICENSE` — MIT License
 
 ## License
